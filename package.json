@@ -1,6 +1,5 @@
-"homepage:"  "https://webgamaliel.github.io/robofriends",
-
 {
+  "homepage:" "https://webgamaliel.github.io/robofriends",
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
